@@ -44,7 +44,7 @@ remove_files(7)
 
 
 st.title("Aplicación de Traducción Para Tus Viajes")
-st.subheader("El idioma no será nunca más un impedimento para tus aventuras, solo toma una foto del texto que quieres traducir.")
+st.subheader("El idioma no será nunca más un impedimento para tus aventuras, solo sube una foto del texto que quieres traducir.")
 st.text("Elige la fuente de la imágen, esta puede venir de la cámara o cargando un archivo")
 
 cam_ = st.checkbox("Usar Cámara")
